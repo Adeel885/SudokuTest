@@ -1,0 +1,12 @@
+C:\Projects\Personal\Demo 1\SudokuTest\SudokuTest\bin\Debug\SudokuTest.exe.config
+C:\Projects\Personal\Demo 1\SudokuTest\SudokuTest\obj\Debug\SudokuTest.csprojResolveAssemblyReference.cache
+C:\Projects\Personal\Demo 1\SudokuTest\SudokuTest\bin\Debug\SudokuTest.exe
+C:\Projects\Personal\Demo 1\SudokuTest\SudokuTest\bin\Debug\SudokuTest.pdb
+C:\Projects\Personal\Demo 1\SudokuTest\SudokuTest\obj\Debug\SudokuTest.exe
+C:\Projects\Personal\Demo 1\SudokuTest\SudokuTest\obj\Debug\SudokuTest.pdb
+C:\Users\Adeel.ahmed\Source\Repos\SudokuTest\SudokuTest\bin\Debug\SudokuTest.exe.config
+C:\Users\Adeel.ahmed\Source\Repos\SudokuTest\SudokuTest\obj\Debug\SudokuTest.exe
+C:\Users\Adeel.ahmed\Source\Repos\SudokuTest\SudokuTest\obj\Debug\SudokuTest.pdb
+C:\Users\Adeel.ahmed\Source\Repos\SudokuTest\SudokuTest\bin\Debug\SudokuTest.exe
+C:\Users\Adeel.ahmed\Source\Repos\SudokuTest\SudokuTest\bin\Debug\SudokuTest.pdb
+C:\Users\Adeel.ahmed\Source\Repos\SudokuTest\SudokuTest\obj\Debug\SudokuTest.csprojResolveAssemblyReference.cache
